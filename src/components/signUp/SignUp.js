@@ -1,8 +1,8 @@
 import React from "react";
-import TextField from "../../common/omponents/TextField/TextField";
+import TextField from "../../common/components/TextField/TextField";
 import { Formik } from "formik";
 import * as yup from "yup";
-import DateField from "../../common/omponents/DateField/DateFiled";
+import DateField from "../../common/components/DateField/DateFiled";
 import Button from "@mui/material/Button";
 
 const SignUp = () => {
